@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": " LD01 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/models/1 (10).jpg"
+  },
+ 
+  {
+    "id": 4,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/models/1 (1).jpg"
+  },
+  {
+    "id": 4,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/models/1 (15).jpg"
+  },
+  {
+    "id": 4,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/models/1 (18).jpg"
+  }
+]
