@@ -40,8 +40,7 @@
             </nav>
 
             <div class="container">
-                <form id="checkoutForm"  action="https://formsubmit.co/onestopshopwomen@gmail.com
-                " method="post">
+                <form id="checkoutForm"  method="POST" action="https://usebasin.com/f/cc9c4f9e6b0e">
                     <label for="name">Name:</label>
                     <input type="text" id="name" name="name" required>
         
@@ -55,7 +54,7 @@
                     <input type="text" id="cardNumber" name="cardNumber" required>
         
                     <label for="expiryDate">Expiry Date:</label>
-                    <input type="text" id="expiryDate" name="expiryDate" placeholder="MM/YY" required>
+                    <input type="text" id="expiryDate" name="expiryDate" placeholder="MMYY" required>
         
                     <label for="cvv">CVV:</label>
                     <input type="text" id="cvv" name="cvv" required>
@@ -119,6 +118,34 @@
                 </div>
 
             </footer>
+            <script>
+                document.getElementById('checkoutForm').addEventListener('submit', function (event) {
+                    var cardNumber = document.getElementById('cardNumber').value;
+                    var expiryDate = document.getElementById('expiryDate').value;
+                    var cvv = document.getElementById('cvv').value;
+            
+                    // Check if card number is 16 digits
+                    if (cardNumber.length !== 16 || isNaN(cardNumber)) {
+                        alert('Card number must be 16 digits');
+                        event.preventDefault();
+                        return;
+                    }
+            
+                    // Check if expiry date is only numbers
+                    if (isNaN(expiryDate)) {
+                        alert('Expiry date should contain only numbers');
+                        event.preventDefault();
+                        return;
+                    }
+            
+                    // Check if CVV is 3 digits
+                    if (cvv.length !== 3 || isNaN(cvv)) {
+                        alert('CVV must be 3 digits');
+                        event.preventDefault();
+                        return;
+                    }
+                });
+            </script> 
         </main>
     </body>
 </html>

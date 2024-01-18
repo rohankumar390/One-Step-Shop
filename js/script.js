@@ -35,10 +35,12 @@ function updateTimer() {
   }
 }
 
-document.getElementById("vid").play();
+
 
 // Update the timer every second
 setInterval(updateTimer, 1000);
 
 // Initial update
 updateTimer();
+
+
