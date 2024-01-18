@@ -3,24 +3,48 @@
     "id": 1,
     "name": " LD01 LOUNGE CHAIR",
     "price": 200,
-    "image": "img/models/1 (4).jpg"
+    "image": "img/vero/Vero moda 1.webp"
   },
   {
     "id": 2,
     "name": " LD02 LOUNGE CHAIR",
     "price": 250,
-    "image": "img/models/1 (17).jpg"
+    "image": "img/vero/Vero moda 2.webp"
   },
   {
     "id": 3,
     "name": " LD03 LOUNGE CHAIR",
     "price": 290,
-    "image": "img/models/1 (6).jpg"
+    "image": "img/vero/Vero moda 3.webp"
   },
   {
     "id": 4,
     "name": " LD04 LOUNGE CHAIR",
     "price": 200,
-    "image": "img/models/1 (12).jpg"
+    "image": "img/vero/Vero moda 4.webp"
+  },
+  {
+    "id": 4,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/vero/Vero moda 5.webp"
+  },
+  {
+    "id": 4,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/vero/Vero moda 6.webp"
+  },
+  {
+    "id": 4,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/vero/Vero moda 7.webp"
+  },
+  {
+    "id": 4,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/vero/Vero moda 8.webp"
   }
 ]

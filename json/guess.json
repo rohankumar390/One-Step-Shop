@@ -3,24 +3,48 @@
     "id": 1,
     "name": " LD01 LOUNGE CHAIR",
     "price": 200,
-    "image": "img/models/1 (13).jpg"
+    "image": "img/guess/Guess 1.webp"
   },
   {
     "id": 2,
     "name": " LD02 LOUNGE CHAIR",
     "price": 250,
-    "image": "img/models/1 (16).jpg"
+    "image": "img/guess/Guess 2.webp"
   },
   {
     "id": 3,
     "name": " LD03 LOUNGE CHAIR",
     "price": 290,
-    "image": "img/models/1 (12).jpg"
+    "image": "img/guess/Guess 3.webp"
   },
   {
     "id": 4,
     "name": " LD04 LOUNGE CHAIR",
     "price": 200,
-    "image": "img/models/1 (11).jpg"
+    "image": "img/guess/Guess 4.webp"
+  },
+  {
+    "id": 5,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/guess/Guess 5.webp"
+  },
+  {
+    "id": 6,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/guess/Guess 6.webp"
+  },
+  {
+    "id": 7,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/guess/Guess 7.webp"
+  },
+  {
+    "id": 8,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/guess/Guess 8.webp"
   }
 ]

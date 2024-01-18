@@ -3,25 +3,49 @@
     "id": 1,
     "name": " LD01 LOUNGE CHAIR",
     "price": 200,
-    "image": "img/models/1 (10).jpg"
+    "image": "img/forever/Forever New 1.jpeg"
   },
- 
+
+  {
+    "id": 2,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/forever/Forever New 2.jpeg"
+  },
+  {
+    "id": 3,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/forever/Forever New 3.jpeg"
+  },
   {
     "id": 4,
     "name": " LD04 LOUNGE CHAIR",
     "price": 200,
-    "image": "img/models/1 (1).jpg"
+    "image": "img/forever/Forever New 4.jpeg"
   },
   {
-    "id": 4,
+    "id": 5,
     "name": " LD04 LOUNGE CHAIR",
     "price": 200,
-    "image": "img/models/1 (15).jpg"
+    "image": "img/forever/Forever New 5.jpeg"
   },
   {
-    "id": 4,
+    "id": 6,
     "name": " LD04 LOUNGE CHAIR",
     "price": 200,
-    "image": "img/models/1 (18).jpg"
+    "image": "img/forever/Forever New 6.jpeg"
+  },
+  {
+    "id": 7,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/forever/Forever New 7.jpeg"
+  },
+  {
+    "id": 8,
+    "name": " LD04 LOUNGE CHAIR",
+    "price": 200,
+    "image": "img/forever/Forever New 8.jpeg"
   }
 ]
